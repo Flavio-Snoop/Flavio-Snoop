@@ -9,6 +9,6 @@
 - 📚 bora estudar 💻🖥
 
 <div>
-  <a href="https://github.com/Flavio-Snoop">
+  <a href="https://twitter.com/flavio_snoopy>
 
 </div>
