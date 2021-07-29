@@ -10,5 +10,6 @@
 
 <div>
   <a href="https://twitter.com/flavio_snoopy>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 </div>
